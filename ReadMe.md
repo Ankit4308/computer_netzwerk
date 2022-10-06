@@ -29,6 +29,7 @@ Das Projekt besteht aus diversen Unterverzeichnissen:
  * ```exercises```: Hier befinden sich die Übungsblätter sowohl für Laborübungen
   (```practical-ex*.pdf```) als auch zur Vertiefung des Stoffes aus den Vorlesungen (```ex*.pdf```)
  * ```slides```: Hier befinden sich die Vorlesungsslides.
+ * ```talks.md```: Hier befinden sich Themen und Hinweise über die [Vorträge](talks.md).
 
 Projekt lokal aktualisieren
 ---------------------------
@@ -45,7 +46,7 @@ bitte folgende Kommandos ein:
 Fragen
 ------
 
-Fragen können in den wöchentlichen BBB-Sitzungen und hier via
+Fragen können in den wöchentlichen Veranstaltungen und hier via
 [Issues](https://gitlab.rz.htw-berlin.de/bauers/ce26-cnw-wise-22/-/issues)
 gestellt werden.
 
