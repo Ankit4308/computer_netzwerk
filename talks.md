@@ -26,6 +26,7 @@ eigene Recherche:
 
 * Datenstrukturen für IP-Prefix-Lookup (https://www.eurecom.fr/~erbi/PS/lookup.pdf)
 * Kryptologischen Hashfunktionen wie SHA-2 (https://web.archive.org/web/20150315061807/http://csrc.nist.gov/groups/STM/cavp/documents/shs/sha256-384-512.pdf)
+* HTTP und Quic
 * MQTT, CoAP, AMQP, HTTP for IoT
 * PCIe, alle relevanten Schichten
 * Raft-Consensus-Algorithmus
