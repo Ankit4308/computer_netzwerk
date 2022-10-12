@@ -31,6 +31,7 @@ eigene Recherche:
 * Huffman-Kodierung
 * MQTT, CoAP, AMQP, HTTP for IoT
 * PCIe, alle relevanten Schichten
+* QR-Code
 * Raft-Consensus-Algorithmus
 * Sicherheitslücken, z.B. Heartbleed (https://jhalderm.com/pub/papers/heartbleed-imc14.pdf)
 * SMTP, IMAP4, POP3
