@@ -25,6 +25,7 @@ Im Wintersemester 2022 stehen folgende Themen zur Auswahl, in Klammern befinden 
 eigene Recherche:
 
 * Berkeley Packet Filter
+* Block Exchange Protocol
 * Datenstrukturen für IP-Prefix-Lookup (https://www.eurecom.fr/~erbi/PS/lookup.pdf)
 * Kryptologischen Hashfunktionen wie SHA-2 (https://web.archive.org/web/20150315061807/http://csrc.nist.gov/groups/STM/cavp/documents/shs/sha256-384-512.pdf)
 * HTTP und Quic
