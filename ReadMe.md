@@ -31,6 +31,14 @@ Das Projekt besteht aus diversen Unterverzeichnissen:
  * ```slides```: Hier befinden sich die Vorlesungsslides.
  * ```talks.md```: Hier befinden sich Themen und Hinweise über die [Vorträge](talks.md).
 
+Reihenfolge der Vorlesung
+-------------------------
+
+Die Reihenfolge der Vorlesungs ist nicht ganz identisch mit der Nummerierung der Slides. Nach
+der Einführung beschäftigen wir uns zunächst mit den IPv4-Adressen aus dem 4. Foliensatz,
+bevor den ersten Foliensatz hören.
+
+
 Projekt lokal aktualisieren
 ---------------------------
 
